@@ -20,6 +20,12 @@ A simplified UNO environment built to compare how <strong>Minimax</strong> and <
 
 ---
 
+## 🌐 Live Demo
+
+[**Play the Game →**](https://uno-3-player-a-ivs-human.vercel.app/)
+
+> An interactive web version of the UNO game featuring a human player against AI opponents, with a browser-based interface for gameplay.
+
 ## 🎮 Game Overview
 
 This project models a three-player version of UNO in which each player follows a different decision strategy.
